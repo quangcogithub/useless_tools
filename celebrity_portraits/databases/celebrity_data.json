@@ -1,0 +1,12 @@
+{
+    "Pack Hang Seo": {
+        "name": "Pack Hang-seo",
+        "portrait": "./images/pack_hang_seo.jpg",
+        "overview": "HLV trưởng đội tuyển quốc gia Việt Nam"
+    },
+    "Vu Duc Dam": {
+        "name": "Vũ Đức Đam",
+        "portrait": "./images/vu_duc_dam.jpg",
+        "overview": "Phó Thủ tướng Chính phủ Việt Nam"
+    }
+}
