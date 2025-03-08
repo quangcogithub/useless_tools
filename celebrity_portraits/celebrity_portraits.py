@@ -1,7 +1,7 @@
 ########################################################################################################################
 #                                                    Import Modules                                                    #
 ########################################################################################################################
-from sources.command_printer import *
+from sources.command_printer import print_image_characters
 from sources.image_converter import *
 from sources.image_loader import *
 
